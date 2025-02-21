@@ -1,7 +1,5 @@
-# Uncovering Key Factors and Optimized Models 
-for Stroke Prediction: An Exploratory and 
-Comparative Analysis 
- Stroke remains to be a significant global health 
+# Uncovering Key Factors and Optimized Models for Stroke Prediction: An Exploratory and Comparative Analysis 
+Stroke remains to be a significant global health 
 issue, ranking as one of the leading causes of death and long
 term disability. Early detection and prevention are now crucial 
 due to the rising burden of chronic diseases and incidence of 
